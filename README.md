@@ -1,2 +1,2 @@
-# Codewars
-## Daily katas / Codewars challenges
+# Daily Coding Challenges
+### A repository of daily coding challenges.
